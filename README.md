@@ -1,8 +1,12 @@
-# Switch-Mode Power Supply (SMPS) – Power Conversion System
+# Switch Mode Power Supply in Computer Systems
 # 1. Introduction:
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/6f36304e-1d6a-4646-a29c-b0ae48aac617" />
 
 A Switch Mode Power Supply (SMPS) is an electronic circuit that converts electrical power from one form to another using high-speed switching. It turns the power ON and OFF very quickly and uses inductors, capacitors, and transformers to smooth and control the output.Because it works at high frequency, an SMPS is small, lightweight, and more efficient than normal power supplies. It is used in chargers, TVs, computers, LED drivers, and almost all modern electronics.
+
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/6f36304e-1d6a-4646-a29c-b0ae48aac617" />
+
+<img width="994" height="358" alt="Screenshot 2025-11-10 112625" src="https://github.com/user-attachments/assets/0d83a3e4-0e35-403e-a444-be18072dbfa6" />
+
 
 In an SMPS:
 
