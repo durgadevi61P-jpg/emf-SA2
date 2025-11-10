@@ -53,6 +53,9 @@ Without inductance, the output would fluctuate wildly, and the SMPS would not be
 
 A solenoid is a long coil of wire wound in a cylindrical shape.When current flows through it, a strong and nearly uniform magnetic field is produced inside the coil.
 
+<img width="127" height="194" alt="Screenshot 2025-11-10 113746" src="https://github.com/user-attachments/assets/39d1792e-5bcb-4924-b4bc-a4bd669e9c77" />
+
+
 <img width="653" height="316" alt="image" src="https://github.com/user-attachments/assets/45cf0d19-ee47-43e6-84d5-17e2f9e5fc6f" />
 
 # Real time appliction in SMPS
@@ -88,6 +91,7 @@ The cylindrical “solenoid” shape is easy to wind and allows control over num
 
 A toroid is a coil wound around a circular ring-shaped core.The magnetic field is confined entirely within the ring, which reduces electromagnetic interference (EMI).
 
+<img width="129" height="167" alt="Screenshot 2025-11-10 113754" src="https://github.com/user-attachments/assets/5eaccbb5-2c54-4d00-8b2e-515fcb02d3f8" />
 
 <img width="660" height="325" alt="Screenshot 2025-11-09 214719" src="https://github.com/user-attachments/assets/11dc81ce-7c2d-4f32-b160-62a358e389e3" />
 
